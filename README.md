@@ -50,70 +50,55 @@ This project follows a standard data analytics workflow:
 ---
 
 ## 📊 Key Features
+- Interactive Power BI dashboard
+- Cleaned, ready-to-use datasets
+- Hotel performance & segmentation
+- Tourism trend analysis
+- Revenue & cost insights
+- Regulatory context integration
 
-* 📈 Interactive Power BI Dashboard
-* 🧹 Cleaned and structured datasets using Excel
-* 🏨 Hotel segmentation and performance analysis
-* 🌍 Tourism trend analysis (domestic)
-* 💰 Revenue and cost breakdown insights
-* ⚖️ Integration of hotel business regulations
+---
+## ⚙️ Installation & Run
+
+### 🔧 Requirements
+Before running this project, make sure you have:
+
+- Power BI Desktop (latest version recommended)
 
 ---
 
-## 📂 Data Sources
+### 📥 1. Clone Repository
 
-This project integrates multiple reliable datasets and official reports:
-
-* Hotel tax regulations guide (Thailand Revenue Department)
-* Hotel business classification and legal framework
-* Thailand Statistical Yearbook 2025
-* Domestic tourism statistics (2024)
-* International tourist arrivals (2025 preliminary data)
-* Bangkok hotel dataset (Kaggle)
-* Accommodation business cost dataset (Government Data Catalog)
-* Hotel revenue by size (Economic Analysis Report 2024)
+```
+git clone https://github.com/May12365/Harmony-Hotel-.git
+cd Harmony-Hotel-
+```
 
 ---
 
-## 📊 Dashboard Highlights
+### 📊 2. Open Dashboard (No Data Preparation Required)
 
-The Power BI dashboard provides:
+This project is preprocessed and ready to use.
 
-* Hotel distribution and market size analysis
-* Tourism demand trends by region and time
-* Revenue vs cost comparison
-* Customer segmentation insights
-* Industry growth patterns
+1. Open Power BI Desktop  
+2. Open file:
 
----
-
-## 💡 Key Insights
-
-* Thailand’s hotel industry shows strong dependency on tourism flows
-* Seasonal trends significantly impact occupancy and revenue
-* Cost structures vary significantly by hotel size
-* Legal and tax frameworks influence profitability and operations
+```
+/dashboard/harmony_hotel.pbix
+```
 
 ---
 
-## 📈 Business Value
+### 🔄 3. Refresh Data (Optional)
 
-This project demonstrates how data analytics can:
+If needed:
 
-* Support strategic planning in hospitality businesses
-* Improve operational efficiency
-* Identify growth opportunities
-* Enhance data-driven decision-making
+- Click Refresh in Power BI  
+- Ensure data source path points to:
 
----
-
-## 🚀 Skills Demonstrated
-
-* Data Cleaning & Transformation
-* Data Visualization & Dashboard Design
-* Business Intelligence (BI)
-* Analytical Thinking
-* Industry Research & Data Integration
+```
+Preprocess data/
+```
 
 ---
 
@@ -124,11 +109,6 @@ https://www.youtube.com/watch?v=V8Jb1jXnPq4
 
 ---
 
-## 📌 Conclusion
-
-The **Harmony Hotel Project** showcases the practical application of data analytics in the hospitality industry, combining **technical expertise**, **business understanding**, and **data storytelling** to deliver meaningful insights.
-
----
 
 ## 📜 License
 
