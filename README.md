@@ -1,10 +1,10 @@
-# 🏨 Harmony Hotel Data Analytics Project
+# 🏨 Harmony Hotel 
 ![GitHub repo size](https://img.shields.io/github/repo-size/May12365/TypingTestGame)
 ![GitHub stars](https://img.shields.io/github/stars/May12365/TypingTestGame?style=social)
 
 ## 📌 Overview
 
-The **Harmony Hotel Data Analytics Project** is an end-to-end data analytics case study focused on the hotel industry in Thailand. This project demonstrates advanced skills in **data preprocessing, analysis, and visualization** using **Microsoft Excel** and **Power BI**.
+The **Harmony Hotel (Data Analytics Project)** is an end-to-end data analytics case study focused on the hotel industry in Thailand. This project demonstrates advanced skills in **data preprocessing, analysis, and visualization** using **Microsoft Excel** and **Power BI**.
 
 The objective is to transform raw hospitality data into actionable business insights that support **strategic decision-making**, **operational efficiency**, and **market understanding**.
 
@@ -60,14 +60,14 @@ This project follows a standard data analytics workflow:
 ---
 ## ⚙️ Installation & Run
 
-### 🔧 Requirements
+### Requirements
 Before running this project, make sure you have:
 
-- Power BI Desktop (latest version recommended)
+- Power BI Desktop 
 
 ---
 
-### 📥 1. Clone Repository
+### 1. Clone Repository
 
 ```
 git clone https://github.com/May12365/Harmony-Hotel-.git
@@ -76,7 +76,7 @@ cd Harmony-Hotel-
 
 ---
 
-### 📊 2. Open Dashboard (No Data Preparation Required)
+### 2. Open Dashboard (No Data Preparation Required)
 
 This project is preprocessed and ready to use.
 
@@ -89,7 +89,7 @@ This project is preprocessed and ready to use.
 
 ---
 
-### 🔄 3. Refresh Data (Optional)
+### 3. Refresh Data (Optional)
 
 If needed:
 
@@ -100,6 +100,8 @@ If needed:
 Preprocess data/
 ```
 
+###  4. Run & Explore Dashboard
+Use filters and slicers to explore
 ---
 
 ## 🎥 Demo
