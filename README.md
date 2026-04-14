@@ -130,13 +130,15 @@ The **Harmony Hotel Project** showcases the practical application of data analyt
 
 ---
 
-## 👤 Author
+## 📜 License
 
-**[Your Name]**
-Data Analyst | Power BI Developer | Business Intelligence Enthusiast
+This project is created for **educational and portfolio purposes**.
 
 ---
 
-## ⭐ Note
+## 👤 Author
 
-This project is designed as a **portfolio project** to demonstrate real-world data analytics capabilities and industry-relevant problem-solving.
+* GitHub: https://github.com/May12365
+
+---
+
