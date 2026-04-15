@@ -1,6 +1,6 @@
 # 🏨 Harmony Hotel 
-![GitHub repo size](https://img.shields.io/github/repo-size/May12365/TypingTestGame)
-![GitHub stars](https://img.shields.io/github/stars/May12365/TypingTestGame?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/May12365/Harmony-Hotel-)
+![GitHub stars](https://img.shields.io/github/stars/May12365/Harmony-Hotel-?style=social)
 
 ## 📌 Overview
 
